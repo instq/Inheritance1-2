@@ -1,1 +1,1 @@
-# Super-class
+Inheritance1,2
